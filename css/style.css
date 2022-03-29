@@ -1,0 +1,86 @@
+.background{
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+#resume {
+    background-image: url('/images/resumewallpaper.jpg');
+
+}
+
+h1 {
+    text-align: center;
+    color:white;
+}
+
+.links {
+    text-align: center;
+    border: 5px outset red;
+    background-color: lightblue;
+}
+
+.contactInfo {
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+}
+
+.profileSec {
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+}
+
+.collegeInfoSec {
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+}
+
+.classes {
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+}
+
+#contactInformationHeader{
+    text-align: center;
+    color:aliceblue
+}
+
+.contactInformations {
+    text-align: center;
+    border: 5px outset red;
+    background-color: lightblue;
+}
+
+
+#personalproject {
+    background-image: url('/images/personalproject.jpg');
+
+}
+
+#introduction, #process, #continue, #highschool, #another-college, #society{
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+}
+
+
+.image1 {
+    border: 5px outset red;
+    background-color: lightblue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#major {
+    background-image: url('/images/majorwallpaper.jpg');
+}
+
