@@ -8,7 +8,7 @@
     background-position: center center;
 }
 #resume {
-    background-image: url('./images/resumewallpaper.jpg');
+    background-image: url(/images/resumewallpaper.jpg);
 
 }
 
@@ -60,7 +60,7 @@ h1 {
 
 
 #personalproject {
-    background-image: url('./images/personalproject.jpg');
+    background-image: url(/images/personalproject.jpg);
 
 }
 
@@ -81,6 +81,6 @@ h1 {
 }
 
 #major {
-    background-image: url('./images/majorwallpaper.jpg');
+    background-image: url(/images/majorwallpaper.jpg);
 }
 
