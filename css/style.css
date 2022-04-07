@@ -20,7 +20,7 @@
 
 
 #resume {
-    background-image: url('/images/resumewallpaper.jpg');
+    background-image: url('../images/resumewallpaper.jpg');
 }
 
 h1 {
@@ -30,7 +30,7 @@ h1 {
 
 
 .resume-header{
-    background-image: url("/images/resume-header-picture.jpg");
+    background-image: url('../images/resume-header-picture.jpg');
     background-size: cover;
     padding-bottom: 30px;
     text-align: center;
@@ -285,7 +285,7 @@ h1 {
 
 
 #major {
-    background-image: url('/images/majorwallpaper.jpg');
+    background-image: url('../images/majorwallpaper.jpg');
     background-color: rgb(202, 199, 199);
     background-blend-mode:luminosity;
 }
@@ -297,7 +297,7 @@ h1 {
 
 
 .major-header {
-    background-image: url('/images/major-header-picture.jpg');
+    background-image: url('../images/major-header-picture.jpg');
     background-size: cover;
     padding-bottom: 30px;
     text-align: center;
@@ -336,7 +336,7 @@ h1 {
 
 
 #personalproject {
-    background-image: url('/images/personalproject.jpg');
+    background-image: url('../images/personalproject.jpg');
 
 }
 
@@ -346,7 +346,7 @@ h1 {
 
 
 .pp-header {
-    background-image: url('/images/major-header-picture.jpg');
+    background-image: url('../images/major-header-picture.jpg');
     background-size: cover;
     padding-bottom: 30px;
     text-align: center;
